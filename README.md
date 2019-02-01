@@ -1,2 +1,7 @@
 # Chandler-Chatbot
 
+zheshiyijuzhongwenpinyin
+qiuqiudajiabuyaokanwodecaibidaima
+meiyourenhecankaojiazhide
+xiangxinwo
+xiexie
