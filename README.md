@@ -36,3 +36,6 @@ Actually, I more want to use word2vec to do the word embedding. But the thing is
 
 Use seq2seq model to train the model, and base on Keras [seq2seq sample](https://github.com/keras-team/keras/blob/master/examples/lstm_seq2seq.py). 
 
+## Result 
+<img src="result1.png">
+<p align = "center"></p>
